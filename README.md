@@ -42,6 +42,6 @@ go run main.go
 ```
 This will start the scraping process, fetching stock data for each specified company from Yahoo Finance.
 
-Access the Data: Once scraping is complete, the data will be saved as data.json in the present working directory. You can open this file to view the JSON-formatted stock data.
+Access the Data: Once scraping is complete, the data will be saved as data.json in the present working directory. You can open this file to view the JSON-formatted stock data. And the final step is just to format the .json file.
 
 
